@@ -1,2 +1,0 @@
-# terraform-practica
-terraform-practica
